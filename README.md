@@ -22,4 +22,4 @@ Daha sonra klasöre girmek için:
 
 ## Çalışma Videosu
 
-[![Python Trex Game Required Libraries](https://img.youtube.com/vi/10FTgdpictY/hqdefault.jpg)](https://www.youtube.com/watch?v=10FTgdpictY)
+[![Smtplib ile Email Dogrulama](https://img.youtube.com/vi/10FTgdpictY/hqdefault.jpg)](https://www.youtube.com/watch?v=10FTgdpictY)
